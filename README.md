@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Harshit Kumar<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I solve DSA problems</p>
+<p align="left">I'm Harshit Kumar<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I solve problems</p>
 
 ###
 
