@@ -37,8 +37,6 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitkumar7525&show_icons=true&theme=dracula)  
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar7525&layout=compact&theme=dracula)  
 <br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshitkumar7525&theme=dracula&hide_border=false)  
