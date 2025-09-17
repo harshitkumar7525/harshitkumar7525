@@ -64,8 +64,8 @@
 ### 🎮 Fun Section
 <div align="center">
 
-![PacMan](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)  
-![Visitor Count](https://komarev.com/ghpvc/?username=harshitkumar7525&color=blue&style=flat)
+![PacMan](https://raw.githubusercontent.com/harshitkumar7525/harshitkumar7525/output/pacman-contribution-graph.svg)
+<br />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 </div>
