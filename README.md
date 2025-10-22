@@ -53,15 +53,16 @@
 </div>
 
 ---
+### 🏆 Hacktober Badges
+
+[![An image of @harshitkumar7525's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitkumar7525)](https://holopin.io/@harshitkumar7525)
+
+---
 
 ### 🎯 Currently
 - 🌱 Learning **Spring Boot, Docker, and Kubernetes**
 - 💻 Exploring **System Design & DSA**
 - 🚀 Building projects with **MERN + Java Backend**
-
----
-
-[![An image of @harshitkumar7525's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitkumar7525)](https://holopin.io/@harshitkumar7525)
 
 ---
 
