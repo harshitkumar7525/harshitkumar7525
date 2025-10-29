@@ -71,6 +71,7 @@
 
 ![PacMan](https://raw.githubusercontent.com/harshitkumar7525/harshitkumar7525/output/pacman-contribution-graph.svg)
 <br />
+<br />
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 </div>
