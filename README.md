@@ -44,15 +44,6 @@
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=harshitkumar7525&theme=dracula&margin-w=8&margin-h=8)
-
-</div>
-
----
 ### 🏆 Hacktober Badges
 
 [![An image of @harshitkumar7525's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitkumar7525)](https://holopin.io/@harshitkumar7525)
