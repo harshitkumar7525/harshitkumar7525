@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="50" />
 
 **Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="50" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" height="50" />
 
 **DevOps & Tools:**  
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" height="50" />
