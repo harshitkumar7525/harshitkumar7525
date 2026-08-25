@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Harshit Kumar</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | Spring Boot & Go | Building AI-Powered Systems</h3>
+<h3 align="center">Backend-Focused Full-Stack Developer | Spring Boot & FastAPI | Building AI-Powered Systems</h3>
 
 <p align="center">
-📍 Mysuru, Karnataka &nbsp;|&nbsp; 🎓 B.E. CSE (AIML), National Institute of Engineering &nbsp;|&nbsp; 🧩 450+ DSA problems solved
+📍 Mysuru, Karnataka &nbsp;|&nbsp; 🎓 B.E. CSE (AIML), National Institute of Engineering &nbsp;
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Results-driven CSE student specializing in **Spring Boot** and **Go** for building scalable backend systems, with experience across the full stack. Actively seeking a **software development internship**. Active core member of the **OWASP** technical team.
+Results-driven CSE student specializing in **Spring Boot** and **FastAPI** for building scalable backend systems, with experience across the full stack. Actively seeking a **software development internship**.
 
 ---
 
@@ -72,7 +72,7 @@ Results-driven CSE student specializing in **Spring Boot** and **Go** for buildi
 
 ### 🎯 Currently
 - 💼 Seeking a **software development internship**
-- 🌱 Sharpening **System Design & DSA** (450+ problems solved)
+- 🌱 Sharpening **System Design & DSA** (500+ problems solved)
 - 🚀 Building AI-powered full-stack projects with **Spring Boot, FastAPI & LangChain**
 
 ---
