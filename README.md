@@ -33,14 +33,6 @@ Results-driven CSE student specializing in **Spring Boot** and **FastAPI** for b
 
 ---
 
-### 🛠️ Featured Projects
-
-- **[ResearchLoop](https://github.com/harshitkumar7525)** — A four-agent AI research pipeline (Search → Reader → Writer → Critic) built with LangChain and GPT-4o Mini, streaming live agent output via FastAPI + SSE, with Google OAuth 2.0 and JWT-based auth backed by Redis.
-- **[CentsAI](https://github.com/harshitkumar7525)** — A full-stack AI-powered expense tracker using Spring Boot and a FastAPI + LangChain microservice for language-agnostic expense extraction, with a server-side analytics engine for spending trends.
-- **[CvCraft](https://github.com/harshitkumar7525)** — A resume builder platform with a Spring Boot + MongoDB backend, Razorpay payment integration, Google OAuth 2.0 login, and dynamic server-side PDF resume generation.
-
----
-
 ### 🔗 Connect With Me
 <div align="center">
   
