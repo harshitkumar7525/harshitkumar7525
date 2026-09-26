@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=I%20am%20Harshit%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=twinkling&color=gradient&customColorList=6,11,20" width="100%" />
 <div align="center">
   <img height="175" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRuMWhqb3V0bmZ1d3hmdHJ0cGRtN2hscW85dmx6MjFnb3dmNWU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHM5qC18iKztUyioMD/giphy.gif" />
 </div>
@@ -13,8 +14,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=I%20am%20Harshit%20Kumar&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harshitkumar7525.harshitkumar7525" />
