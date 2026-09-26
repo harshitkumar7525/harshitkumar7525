@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=I%20am%20Harshit%20Kumar&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harshitkumar7525.harshitkumar7525" />
@@ -61,12 +61,6 @@ I'm a final year CSE student.
 
 ### 🔥 My Stats
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=I%20am%20Harshit%20Kumar&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshitkumar7525&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshitkumar7525/harshitkumar7525/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
